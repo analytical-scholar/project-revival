@@ -1,0 +1,6 @@
+{
+  "name": "Analytical Scholar University Portal",
+  "description": "Student Portal for Analytical Scholar University (ASU) featuring course enrollment, degree audit, financial aid, and transcript requests.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
